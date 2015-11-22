@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CC19524C450DEA744FE78BD796D413BBFBC0A11D" : 0,
+    "73F90C0A2C1618BB16820A8AE22C67338F016E6D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "79768567-3331-4529-ACCE-D1BD6294377E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CC19524C450DEA744FE78BD796D413BBFBC0A11D" : "Temperament\/",
+    "73F90C0A2C1618BB16820A8AE22C67338F016E6D" : "..\/Dropbox\/AppDevelopment\/Musical_Sound_Generator_Framework"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SoundGenerator_forMF",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SoundGenerator_forMF.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hasebems\/Musical_Sound_Generator_Framework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "73F90C0A2C1618BB16820A8AE22C67338F016E6D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:hasebems\/Temperament.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC19524C450DEA744FE78BD796D413BBFBC0A11D"
+    }
+  ]
+}
