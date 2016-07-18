@@ -83,11 +83,11 @@ class SoundController : NSObject
 	//------------------------------------------------------------
 	//				Transpose
 	//------------------------------------------------------------
-	func transpose( var tValue: Int8 ){
-		tValue += 64
-		if tValue < 0 {
-			tValue = 0
+	func transpose( transposeValue: Int8 ){
+		var value = transposeValue + 64
+		if value < 0 {
+			value = 0
 		}
-		ssEngine.receiveMidi(0xb0, msg2:12, msg3: UInt8(tValue))
+		ssEngine.receiveMidi(0xb0, msg2:12, msg3: UInt8(value))
 	}
 }
